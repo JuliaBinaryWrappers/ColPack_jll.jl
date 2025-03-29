@@ -1,288 +1,316 @@
 [[ColPack]]
 arch = "aarch64"
-git-tree-sha1 = "15707f9ffa171e3bf4fb82f194aa8e8d4992f654"
+git-tree-sha1 = "680af11f2d0ae3b5d6643f412bf64073be40964e"
 os = "macos"
 
     [[ColPack.download]]
-    sha256 = "63a27f42e739c3020d82494a9e1a8e1b855274e0acb5ce5a73583eb6671b826d"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "8a2b87eb344614d71540cca81f276397dd81534fb1466fb1203f1bc1cff557d7"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.aarch64-apple-darwin.tar.gz"
 [[ColPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "24becec83b229ae18b91724c926181a2d2b3cbf6"
+git-tree-sha1 = "e25ef4f051d111914770f7a1de46f6405f5f9b4a"
 libc = "glibc"
 os = "linux"
 
     [[ColPack.download]]
-    sha256 = "ef1480a5fecaa46c0b759417cef04b40c4e0d9b0940bf801a38c4192afbb3216"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9ab405b9e806627b27729e32ea1d9b65b6dc7620508b93bc3a3914b52e8e9635"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[ColPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d0e70beb681617d6a6379bee41f733a15221b72"
+git-tree-sha1 = "99523ea092466ea90b174a9d7e54eeb45f2b5620"
 libc = "glibc"
 os = "linux"
 
     [[ColPack.download]]
-    sha256 = "d37935263974c768a5ea2eebfb2b881d1d7fc891b188ba8c473df3270b9ca554"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "4da82995dbbc99a5def577966c8c38a279339a4f9f0841ddd193ce7dcc8be005"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[ColPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "439aa22f5458d66fe4750fb6755a55e81902099c"
+git-tree-sha1 = "2492551153f8a40d46579055b52d63456eb4f83c"
 libc = "musl"
 os = "linux"
 
     [[ColPack.download]]
-    sha256 = "ba49c978b381d8568238a3650f0fcb6d1f51f2f6d5404b9a1c5ca8f0b6bc9fae"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "f5449169db596325da1c0c11bce3ff09d0215d2ee6c9073f363acaa7e0e43c64"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.aarch64-linux-musl-cxx03.tar.gz"
 [[ColPack]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6d31c3f27b0b5553968ab039f7dd9ee4dd798754"
+git-tree-sha1 = "6a0768d387cb60fea91274e196e4de2b63029e51"
 libc = "musl"
 os = "linux"
 
     [[ColPack.download]]
-    sha256 = "842921dc40398ee9fac6a1f071900b2db36d0b5e9908af854719bd1ce2c0e7f4"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "c8d8457ea15ef0bac19cc1fe4ddae27363257846fb0eb1b830b20b45c589f9f9"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.aarch64-linux-musl-cxx11.tar.gz"
 [[ColPack]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad7253d953103c1949ae5d4048793bb7f9f1148a"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "b707ebc6dafc69e2b819511ea2e746efa98222f3dad54d0c075aaa41a12717fa"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[ColPack]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8e13911fbe826586098bdd39d2457c662538e68"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "dad74a39bcc411129acfb9d8734cc458ef0cefbb737abc9614fd763f7797f213"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[ColPack]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6f5fd987f719029c0d06b0004499151a8bef89a4"
-libc = "musl"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "ad2b94cbc66d9c4a3894060fb4931a224196f226fdb2e01aee7477ba525651d7"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[ColPack]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "763219cab6175faad137ae86a7fb47a0df3ad7d7"
-libc = "musl"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "7b14c181fc7f8012a488145f67565fd69204d01973000ad7c38ff2c5c2808039"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[ColPack]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "565384cd26879e90dd4dc1d88bf1190e26a2c74e"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "c0a5b7732371b0429879de07dfdb2cbf7d9fc582c7e640b6bb50668871deb8d7"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[ColPack]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6af0db9ce2c3fc3b2a045d3c02e0138bc81979cf"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "08a81cfa9146a52a4ea8af6fd30fc40ab6f19c2ce5bb906cbd7023cae5a2511d"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[ColPack]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "71e160fe873172c26a6f1b0d07c60c63819d67fc"
-libc = "musl"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "318cd02fa7d0ccb88a84cc6e10d8996cd49ab2941aca2d138efee9770d0ae90a"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[ColPack]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c09299f31c12b001926580ad6c5c608841223b9"
-libc = "musl"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "a00249c238dd5c98ae1fa448ddd142a12552e71f2710226d2e918335ce7e0937"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[ColPack]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "72d94db78d5f8d27bb60881fae5045a492adc6c0"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "e7cd8d42cb27509cd75ecfb20ea60a0d438b4f827cb841901539067be4c9701f"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.i686-linux-gnu-cxx03.tar.gz"
-[[ColPack]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c92d007c73228364e7a10226b576781d227af041"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "f47fd5ff6694594d683d3182d1f1b4c03d53d7a26eb402e3585640a7e5f58cf7"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.i686-linux-gnu-cxx11.tar.gz"
-[[ColPack]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "676a892775d05aedd3544ae4a03324e9e96540e9"
-libc = "musl"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "d1fa5ed8108de2c7cc35786e104b51d877eeadee8239fca5856ba44b6ef15b8b"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.i686-linux-musl-cxx03.tar.gz"
-[[ColPack]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb10fc9b39e98213eacf7fe96d429254f5671e59"
-libc = "musl"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "e1704e172a554f91e1eaa510976f3ce01e310a29c79190e5fb4fe87960e916e5"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.i686-linux-musl-cxx11.tar.gz"
-[[ColPack]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5d265ca5de03006cbda9fbd2fc7ae434d2ab22a3"
-os = "windows"
-
-    [[ColPack.download]]
-    sha256 = "853b5a5e262a14bed54d22ed1ff12c44a8de6aa61a9a889a9d2c56fa0748ce42"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.i686-w64-mingw32-cxx03.tar.gz"
-[[ColPack]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "73eb5e07ff6a65d5633e7038c420db4c55936de1"
-os = "windows"
-
-    [[ColPack.download]]
-    sha256 = "867ee56063774dd24d8c105c1bd4db0c3056ea0e4232acc88ef43f03fb2fe308"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.i686-w64-mingw32-cxx11.tar.gz"
-[[ColPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "20df2f589bbe4b73c2ee850ba16f7f81132957f5"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "3d8ed44dc5e55a24fe452ffe62123642b2b86bd25dd7cbe9661f3099aca48521"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[ColPack]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a82df227470b17cbd49879d8c101b980fb9e761"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "ec0e2cebc378055c803ef1fad0f7f20b3003177be719dcad8a4909b9b133890d"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[ColPack]]
-arch = "x86_64"
-git-tree-sha1 = "3735184356903ddf5ab834acc3bafc3707f6543e"
-os = "macos"
-
-    [[ColPack.download]]
-    sha256 = "86f5e1a40f7b75d59b2cf8d85764a4911d565a12836e1840877625d2204cfb3b"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.x86_64-apple-darwin.tar.gz"
-[[ColPack]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a9f7fcb05339416328c6051bffc3bf86aa08f35e"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "ba8fd8f420dadc98213f997755112a355d0c7529f0feb7194f421a0b9d3edb8c"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.x86_64-linux-gnu-cxx03.tar.gz"
-[[ColPack]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "9dc0661f8374a0c9f66cc35807878ca2d28baf0f"
-libc = "glibc"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "abc2e8f1e500356db8156f87fb9d08edb7afd20305bde4a1a46f07242ae75f6d"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.x86_64-linux-gnu-cxx11.tar.gz"
-[[ColPack]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "58bab36723c88c3ac8c351d7f3cd9d815bcd39f0"
-libc = "musl"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "bd4d95e91984a649d3a01da3536f4994150709c0866f9f120986072efabf1273"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.x86_64-linux-musl-cxx03.tar.gz"
-[[ColPack]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae50f83a59dd68f9962507dab63ed3fe34418d88"
-libc = "musl"
-os = "linux"
-
-    [[ColPack.download]]
-    sha256 = "143befb459d8093b7f74b7a752503a822cc874812475f1d12fee032046619383"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.x86_64-linux-musl-cxx11.tar.gz"
-[[ColPack]]
-arch = "x86_64"
-git-tree-sha1 = "16c3c2871d3bfe122f6d5c1d9028841ada549c06"
+arch = "aarch64"
+git-tree-sha1 = "c688343b43d4bcb6af07014f58f51b5897389974"
 os = "freebsd"
 
     [[ColPack.download]]
-    sha256 = "08932958ddbd97cb2e3160ba9ae3939e688dc05d029004d3e130cfa4ae104a7e"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d2cff3a5b45fac181471d1e6bdd3361b771d783e2cad5be866e4fbb84f89e2a2"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.aarch64-unknown-freebsd.tar.gz"
+[[ColPack]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa2224a497a508d17ef3e4fce29219b25b203af0"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "30211a0e9dbf1a9249a41d7253c46abcc8643caaa919a0913a07f22755c56404"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[ColPack]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e81bef327709891ef2222413acc2c55167f102d"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "688cf08fd75eb7640cfb22eaeb9ea253e490bdb1b6c85223f0c581d6aa70471c"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[ColPack]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0b8c17fd60e0d7e70d19e9265f3ba1e4c7dcecb9"
+libc = "musl"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "ec42116e8f9a54df0815a65b1ef471f67974a0d6345e678d5f6155d6593acbd4"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[ColPack]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "20879e88d1f5c40b8ac9b0a2237722d6c33282a7"
+libc = "musl"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "eade437ef050247b9a7370bf576637750ca427668155b316f04120ffdc647a6a"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[ColPack]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d7501b1a8700b440f1aebad82e1018375959804c"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "4789cd8df6d059d723b04c99e982d723570d5b8e952c82e9fd2dbb7b0ba44e9c"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ColPack]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dbf305572a091f335492944e1be400e48dc98d9c"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "8c43da28a9c143ed51c75237ed776dbea8b76318ed55c30e754a54bddd1e3e5e"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ColPack]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3d8b874815a2a0f1c4547eb38c80ea08cbfdfea8"
+libc = "musl"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "18d5eacd177a055ab9adb9574c3ac47834e16f70cb9eb5babc2357d9569efa30"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ColPack]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b2b1710602d4aa5e91cfe5f37f75e3bfa4e89ff"
+libc = "musl"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "e5fb538840f5e43e4fc882bc4d6eed5dbc663a95baad2691ea0339c4b6b9304e"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ColPack]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e08589697c70078f8b530aaf738c2659610e2f94"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "20b3d7f23b56c82a9e3e79e31021b1bf698f38da10ae0cde7c8859dc936d8c20"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.i686-linux-gnu-cxx03.tar.gz"
+[[ColPack]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2530717758cf0cec3b62c8be93e89131ef671b7e"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "704855fdae42bdde90ece71368b6d9ca239edc1d29128bf7ed95a289b4b13033"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.i686-linux-gnu-cxx11.tar.gz"
+[[ColPack]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69dd2648a058da184922c712f7287d6f581e30c3"
+libc = "musl"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "ea6e75c68e30817f7a560d040892300c8bccf5866b39f8601664318755db0074"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.i686-linux-musl-cxx03.tar.gz"
+[[ColPack]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d959ec622534fa7fc213b852ef96261ba74cd73"
+libc = "musl"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "e51561c420c6f912221e59eb3252faafbead2a4921e7b387c3eb8ab79a6b47eb"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.i686-linux-musl-cxx11.tar.gz"
+[[ColPack]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dca5a606f296c7351fa893e1e08cc51a9db9598b"
+os = "windows"
+
+    [[ColPack.download]]
+    sha256 = "a6f6c92a8fce035c2ebdf854ec823c6a2271b490cbd246956d9b0d90b59ff05a"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.i686-w64-mingw32-cxx03.tar.gz"
+[[ColPack]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ee6e8534cc94d1087a27943008c461322be7ffd"
+os = "windows"
+
+    [[ColPack.download]]
+    sha256 = "92323a42fb00c9fdbf4bf733b2d391b687dfe017b402c3642d4acdfd407b8eeb"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.i686-w64-mingw32-cxx11.tar.gz"
+[[ColPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5ab710c637777dc2d45e9ea54fa24f62d177bba8"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "0b684727eeb54461e00a5b202a2cfbb129bb8b4e0f3ea5bb7480e9baf9db9439"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ColPack]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57bf6cc1f67fedf744dd04e128a12969f5de722d"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "82eefa3a8e54d679c84d5e6b5078ecef836a9d8d4124bbdc6527f7833239fed4"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ColPack]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d37c25d7c137a90936a456cd1d25dfbad9fada50"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "158f367c968c9f11db85ad14ca0caa5b1fe721c39d17b3cdfe6c7253078d3541"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.riscv64-linux-gnu-cxx03.tar.gz"
+[[ColPack]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d75f366b70ca5e973a2a1946c7e53a45bfc51a6"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "db8105889633648af267ce98ee926402e7c67472b1e86b085f6d31fc127666af"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.riscv64-linux-gnu-cxx11.tar.gz"
+[[ColPack]]
+arch = "x86_64"
+git-tree-sha1 = "665548b7ca51b73a5f1f267dffc0f077a9db4453"
+os = "macos"
+
+    [[ColPack.download]]
+    sha256 = "b4365e310a06eb56686ee1d0c0574c74146bc3abaf56bc44ca390e271ff9acd8"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.x86_64-apple-darwin.tar.gz"
 [[ColPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1cf59563204828047dcab2f99abfb11182ddc6d9"
-os = "windows"
+git-tree-sha1 = "79edbe6c18ebdb2d47bccc145ee1d2c4e48bb387"
+libc = "glibc"
+os = "linux"
 
     [[ColPack.download]]
-    sha256 = "2fbef34616f96247f418038b37d2552eb7f4a9771a2071939db0112cc2a1cc8a"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "1cbd19bc72feddad78b9cfbde1581e1e4a21606b23121c84daa83263e7dcbc01"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[ColPack]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6c1ee92077a5a6392456c81e733420ad223e94f5"
+git-tree-sha1 = "44707143b77f1c66e28c9f1e58c72fd008575eea"
+libc = "glibc"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "7de731abeff457fa6eb3f862d3a0ddcad8e4af6bdc28a14b345bd3dfc07b210a"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[ColPack]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c983a9271e333228f231278b41293069a27e5500"
+libc = "musl"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "bc1fb303c6f48f0d1f3f4651594bd02a54d75f4f9a839a51a2c38fc7b54fd888"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.x86_64-linux-musl-cxx03.tar.gz"
+[[ColPack]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb2d1aa1a8b1d7a31d4e8f9907ce1cda2b152471"
+libc = "musl"
+os = "linux"
+
+    [[ColPack.download]]
+    sha256 = "8602a3cb236db955d1ae0e8a135f9f79236aefd0b608a1a591c71dd14bc62177"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.x86_64-linux-musl-cxx11.tar.gz"
+[[ColPack]]
+arch = "x86_64"
+git-tree-sha1 = "80b9769ef9be8fbf1912e404de84ea0d0d7ebbfe"
+os = "freebsd"
+
+    [[ColPack.download]]
+    sha256 = "607503c0d3289141ae3de56820f09e45b35b3649cc28e25890abc0396d0f3f3b"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.x86_64-unknown-freebsd.tar.gz"
+[[ColPack]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15c2781a868079982f3dd6353111441f7e3eb3a2"
 os = "windows"
 
     [[ColPack.download]]
-    sha256 = "79255b938078bdf8e32cbd0fa805b7763b88203fd98898c3deb257df25ecf2bb"
-    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.1+0/ColPack.v0.4.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "2967a51a0d4baf5e0938623f4734de646bb60a56bc6210714b9059828f9d4a91"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ColPack]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "23fcfbb4f4f239eae725fcf4fb4ee940e0471113"
+os = "windows"
+
+    [[ColPack.download]]
+    sha256 = "062cac71272393110d0083d3d73c895b37879180ec5c275144fd3f436cebf066"
+    url = "https://github.com/JuliaBinaryWrappers/ColPack_jll.jl/releases/download/ColPack-v0.4.2+0/ColPack.v0.4.2.x86_64-w64-mingw32-cxx11.tar.gz"
